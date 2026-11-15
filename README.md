@@ -33,6 +33,12 @@ Full-Stack and **AI Application Developer** with **9+ years of enterprise softwa
 
 ## 🚀 Featured Projects
 
+### 🏛️ [Enterprise Multi-Agent Decision Engine](https://github.com/prince082583/multi-agent-decision-engine)
+*Multi-agent orchestration state machine built on LangGraph with Human-in-the-Loop (HITL) checkpoints and risk governance.*
+- Orchestrates 5 specialized agents: Planner, Researcher, Fact-Checker Critic, CRO Risk Analyst, and Executive Synthesizer.
+- Features native LangGraph breakpoints (`interrupt_before`) allowing executives to review findings, steer research, and approve boardroom briefings.
+- Dual interfaces: interactive rich CLI and a real-time visual web dashboard with pipeline node tracking.
+
 ### 🧠 [Local Document RAG Assistant](https://github.com/prince082583/local-document-rag)
 *Private enterprise RAG system with PostgreSQL 18 + pgvector, Ollama local inference, and a ChatGPT-style UI.*
 - Ingests PDFs/TXTs with `RecursiveCharacterTextSplitter` and 768-dim `nomic-embed-text` embeddings.
